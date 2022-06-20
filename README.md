@@ -21,13 +21,13 @@ This is a API and microservices based Demo node application which contains separ
 * task 3 : Link the jobs(up-stream and down-stream). If the build job successfully run the cd will trrigers automatically. 
 
 ## Project 4
-* task 1 : Create manifest files to host the application on minikube(k8s). Create seprate deployment and services for frontend, backend and mysql servers.
-* task 2 : Host the application on minikube locally.
+* task 1 : Create manifest files to host the application on (k8s). Create seprate deployment and services for frontend, backend and mysql servers.
+* task 2 : Host the application on kubernetes cluster locally.
 * task 3 : Replicas of frontend are 10 and backend are 10 and one mysql database.
 * task 4 : Make a new github repository and push the yamls on github repository.
 
 ## Project 5
-* task 1 : Create jenkins CD jobs to host the application on a minikube environment.
+* task 1 : Create jenkins CD jobs to host the application on a kubernetes cluster environment.
 
 ## Project 6
 * task 1 : clone the new version of the application v2 from the github repo https://github.com/sh-cmd/node-project-giit-v2.git .

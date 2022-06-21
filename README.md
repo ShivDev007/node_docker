@@ -22,7 +22,7 @@ This is a API and microservices based Demo node application which contains separ
 
 ## Project 4
 * task 1 : Create manifest files to host the application on (k8s). Create seprate deployment and services for frontend, backend and mysql servers.
-* task 2 : Host the application on kubernetes cluster locally.
+* task 2 : Host the application on kubernetes cluster.
 * task 3 : Replicas of frontend are 10 and backend are 10 and one mysql database.
 * task 4 : Make a new github repository and push the yamls on github repository.
 
